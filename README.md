@@ -146,4 +146,4 @@ This implementation is based on the U-Net architecture and uses ResNet18 as the 
 The dataset used is Pascal VOC 2012.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/JaCar-868/Disease-Progression/blob/main/LICENSE) file for details
